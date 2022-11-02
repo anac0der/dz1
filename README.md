@@ -1,5 +1,5 @@
-# Задание 1 по практикуму на ЭВМ
+# Task 1
 
-sorts.c - реализация сортировок
+sorts.c - sorting implementation
 
-task_1.pdf - условие задания
+task_1.pdf - task condition
